@@ -63,7 +63,7 @@ export default function Header() {
                 </div>
             </div>
 
-            <header className='p-[15px] shadow-xl text-[#686b78]'>
+            <header className='p-[15px] shadow-xl text-[#686b78] sticky top-0 bg-white z-[9999]'>
                 <div className='max-w-[1200px] mx-auto flex items-center'>
                     <div className='w-[50px] h-auto'>
                         <img src="images/logo.png" className='w-full h-auto' alt="" />
