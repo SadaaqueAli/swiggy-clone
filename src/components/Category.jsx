@@ -55,7 +55,7 @@ export default function Category() {
                         );
                     })}
             </div>
-            <hr className='my-6 border-[1px]'/>
+            <hr className='my-6 border-[1px]' />
         </div>
     );
 }
